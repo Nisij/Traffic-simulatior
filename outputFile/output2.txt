@@ -1,0 +1,14 @@
+Current direction: Northbound
+Car sMl-mjZhI is using the intersection for 1 sec(s).
+Car nYN-i4m1l is using the intersection for 1 sec(s).
+Car 1jj-UTPaj is using the intersection for 1 sec(s).
+Current direction: Southbound
+Car X2i-J6Inw is using the intersection for 1 sec(s).
+Car 80s-d2PXm is using the intersection for 1 sec(s).
+Car PVu-226Kf is using the intersection for 1 sec(s).
+Current direction: Northbound
+Car jop-8YbVu is using the intersection for 1 sec(s).
+Car rLn-fGTIv is using the intersection for 1 sec(s).
+Current direction: Southbound
+Car gJ0-pt5OF is using the intersection for 1 sec(s).
+Car mSF-kcl2q is using the intersection for 1 sec(s).

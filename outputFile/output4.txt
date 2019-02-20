@@ -1,0 +1,23 @@
+Current direction: Southbound
+Car KK is using the intersection for 0 sec(s).
+Car NNNN is using the intersection for 0 sec(s).
+Current direction: Westbound
+Car LL is using the intersection for 0 sec(s).
+Car CCC is using the intersection for 0 sec(s).
+Current direction: Northbound
+Car M is using the intersection for 0 sec(s).
+Car DDD is using the intersection for 0 sec(s).
+Current direction: Southbound
+Car E is using the intersection for 0 sec(s).
+Car AAA is using the intersection for 0 sec(s).
+Current direction: Westbound
+Car GGG is using the intersection for 0 sec(s).
+Car BBB is using the intersection for 0 sec(s).
+Current direction: Northbound
+Car JJJ is using the intersection for 0 sec(s).
+Car HH is using the intersection for 0 sec(s).
+Current direction: Southbound
+Car FF is using the intersection for 0 sec(s).
+Car HH is using the intersection for 0 sec(s).
+Current direction: Northbound
+Car III is using the intersection for 0 sec(s).

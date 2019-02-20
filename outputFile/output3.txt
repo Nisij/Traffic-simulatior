@@ -1,0 +1,2 @@
+Current direction: Eastbound
+Car FFFFFFF is using the intersection for 3 sec(s).

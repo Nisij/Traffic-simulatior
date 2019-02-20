@@ -1,0 +1,12 @@
+Current direction: Eastbound
+Car DEF is using the intersection for 2 sec(s).
+Current direction: Southbound
+Car CDE is using the intersection for 3 sec(s).
+Current direction: Westbound
+Car FGH is using the intersection for 1 sec(s).
+Current direction: Northbound
+Car ABC is using the intersection for 2 sec(s).
+Current direction: Southbound
+Car EFG is using the intersection for 1 sec(s).
+Current direction: Northbound
+Car BCD is using the intersection for 2 sec(s).

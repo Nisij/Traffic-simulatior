@@ -1,0 +1,9 @@
+Current direction: Westbound
+Car tnj-ppGIV is using the intersection for 0 sec(s).
+Car 8Yh-xOVke is using the intersection for 0 sec(s).
+Current direction: Northbound
+Car Fgu-KB08j is using the intersection for 0 sec(s).
+Car KnK-PBMXU is using the intersection for 0 sec(s).
+Current direction: Eastbound
+Car zEF-RW2CK is using the intersection for 0 sec(s).
+Car q90-wdaQT is using the intersection for 0 sec(s).
